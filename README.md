@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAinurRiziq13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MuhammadAinurRiziq13?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 </div>
@@ -88,51 +88,15 @@ const muhammadAinurRiziq = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAinurRiziq13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAinurRiziq13&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAinurRiziq13&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced Next.js patterns
-  - Microservices architecture
-  - Mobile-first development
-  - Cloud deployment strategies
-
-Building:
-  - E-commerce platform with Next.js
-  - Cross-platform mobile app with Flutter
-  - API services with FastAPI
-  - Portfolio projects showcase
-
-Goals_2025:
-  - Contribute to open source projects
-  - Master full-stack development
-  - Build production-ready applications
-  - Connect with developer community
-```
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Description | Links |
-|---------|------------|-------------|--------|
-| 🛒 **E-Commerce Platform** | Next.js, TypeScript, PostgreSQL | Modern online shopping experience | [Demo](https://your-demo.com) \| [Code](https://github.com/yourusername/project) |
-| 📱 **Mobile Task Manager** | Flutter, Dart, Firebase | Cross-platform productivity app | [Play Store](https://play.google.com) \| [Code](https://github.com/yourusername/project) |
-| 🎨 **Portfolio Website** | React, Tailwind CSS | Personal showcase platform | [Live](https://portofolio-umber-three.vercel.app/) \| [Code](https://github.com/yourusername/portfolio) |
-
-</div>
 
 ---
 
@@ -143,24 +107,7 @@ Goals_2025:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riziainur13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ainur-riziq-551a04293/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portofolio-umber-three.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-*"The best way to predict the future is to create it."* - Peter Drucker
-
-### 🚀 Ready to build something amazing together?
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
-
-**Thanks for stopping by! Let's turn ideas into reality!** 
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ainr_riziqz?igsh=OW1iaGlvdDB4YmJu)
 
 </div>
 
