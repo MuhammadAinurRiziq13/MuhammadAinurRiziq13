@@ -76,10 +76,6 @@ const muhammadAinurRiziq = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAinurRiziq13&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAinurRiziq13&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🤝 Connect With Me
