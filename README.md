@@ -21,7 +21,7 @@
 const muhammadAinurRiziq = {
     location: "Malang, East Java, Indonesia 🇮🇩",
     education: "6th Semester Informatics Engineering @ State Polytechnic of Malang",
-    currentFocus: ["Web Development", "Mobile Development", "UI/UX Design"],
+    currentFocus: ["Web Development", "Mobile Development"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
     lifePhilosophy: "Code is poetry written in logic 🎨"
 };
@@ -63,7 +63,6 @@ const muhammadAinurRiziq = {
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 </div>
