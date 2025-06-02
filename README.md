@@ -29,7 +29,7 @@ const muhammadAinurRiziq = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAinurRiziq13&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
